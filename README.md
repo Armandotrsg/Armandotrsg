@@ -1,4 +1,4 @@
-![productive-gif](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif)
+![productive-gif](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 # 💫 About Me:
 👋 Hi, I’m @Armandotrsg, student of ITESM in Mexico<br>👀 I’m interested in creating apps, webpages and Machine Learning!<br>🌱 I’m currently learning about Machine Learning in Python<br>💞️ I’m looking to collaborate on fun and useful projects<br>📫 How to reach me A01640924@tec.mx
