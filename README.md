@@ -18,7 +18,7 @@
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-[![send me a message](https://img.shields.io/badge/send%20me%20a%20message-A01640924@tec.mx-blue)](mailto:A01640924@tec.mx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-terrazas-gomez/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Armandotrsg) 
+[![send me a message](https://img.shields.io/badge/send%20me%20a%20message-A01640924@tec.mx-blue)](mailto:A01640924@tec.mx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-terrazas-gomez/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Armandotrsg) 
 
 
 
