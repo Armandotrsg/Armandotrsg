@@ -21,7 +21,7 @@
 <a href="https://twitter.com/Armandotrsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armandotrsg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/armando-terrazas-gomez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armando-terrazas-gomez/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20843645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20843645" height="30" width="40" /></a>
-<a href="https://instagram.com/armandotrsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandotrsg" height="30" width="40" /></a>
+<a href="https://instagram.com/armandotrsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandotrsg" height="30" width="40" /></a> <a href="https://codeforces.com/profile/armandotrsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="armandotrsg" height="30" width="40" /></a>
 </p>
 
 
