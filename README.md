@@ -29,6 +29,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=Armandotrsg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<picture><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"></picture>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Armandotrsg&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandotrsg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
