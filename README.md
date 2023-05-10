@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width = 250px></picture>
 
 🤓 In my spare time, I enjoy learning about new technologies and working on personal projects. I am particularly interested in web development, Machine Learning, and C++.<br>
 💪 I am currently looking for opportunities to gain hands-on experience and develop my skills in the field. I am a motivated and hard-working individual with strong problem-solving and analytical skills.<br>
@@ -29,7 +29,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=Armandotrsg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<picture><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250"></picture>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Armandotrsg&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandotrsg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
